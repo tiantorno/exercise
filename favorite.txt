@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 ICe Cream
 fries
 lattuce
-=======
 Amadeus
 Spiderman
 Jaws
->>>>>>> movies
